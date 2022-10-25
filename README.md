@@ -30,6 +30,7 @@
 ## Credits
 
 Built and designed by:<br/>
+👨🏻‍💻 <a href="https://github.com/Chechutech">Cecilia Olmedo</a>
 👨🏻‍💻 <a href="https://github.com/Mariacarranzavaldes">Maria Carranza</a><br/>
 👨🏻‍💻 <a href="https://github.com/marielleia">Marielle Ibias</a><br/>
-👨🏻‍💻 <a href="https://github.com/Chechutech">Cecilia Olmedo</a>
+
