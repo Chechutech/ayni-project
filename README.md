@@ -1,6 +1,13 @@
 # 🤝 AYNI web app
 ### Built with Node.js, React.js, Postgres, Firebase & Material-UI
 
+## 💻 Desktop Demo
+
+![webDemo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc5N2Q1MTNmNzk1ZmZkNmQ3Y2U2NGEyZTk4MzZlNDk4YWE2YmNlNSZjdD1n/fEcF6qILxgxhjLuS2N/giphy.gif)
+
+
+
+
 ## How to quickly try it?
 
 👉 The project is hosted on Firebase: https://ayni-f5.web.app/<br/>
